@@ -1,5 +1,5 @@
 # Computational Physics
-List of my article in [Medium](https://miqbalrp.medium.com/) about Numerical Method and Computational Physics.<br> 
+List of my stories in [Medium](https://miqbalrp.medium.com/) about Numerical Method and Computational Physics.<br> 
 
 #### 1. Root Finding
 * Bisection Method | [Mencari Akar Persamaan menggunakan Python (Bisection Method)](https://miqbalrp.medium.com/mencari-akar-persamaan-menggunakan-python-bisection-method-b2ebf6066752) (*Published: Mar 5, 2021*)
