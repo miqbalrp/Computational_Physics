@@ -11,6 +11,9 @@ List of my stories in [Medium](https://miqbalrp.medium.com/) about Numerical Met
 * LU Decomposition (part 2) | [Penyelesaian SPL Menggunakan Python: Dekomposisi LU (bag. 2)](https://miqbalrp.medium.com/penyelesaian-spl-menggunakan-python-dekomposisi-lu-bag-2-9a3070d46d9) (*Published: Mar 31, 2021*) 
 * LU Decomposition (part 3) | [Penyelesaian SPL Menggunakan Python: Dekomposisi LU (bag. 3)](https://miqbalrp.medium.com/penyelesaian-spl-menggunakan-python-dekomposisi-lu-bag-3-3f4279817c8e) (*Published: Apr 3, 2021*)
 
+Another *fun* project:
+* WhatsApp Chat Analysis | [Analisis Chat WhatsApp Menggunakan Python: Sebuah Hadiah Ulang Tahun Istri](https://miqbalrp.medium.com/analisis-chat-whatsapp-menggunakan-python-sebuah-hadiah-ulang-tahun-istri-be632adeddf3) (*Published: 16 Mei 2021*)
+
 I will update regularly with other interesting numerical methods. 
 Discussions, suggestions and requests can directly contact me via Github or email to miqbalrp@gmail.com.
 
