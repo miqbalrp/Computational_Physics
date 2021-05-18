@@ -1,4 +1,4 @@
-# Computational Physics
+# Computational Physics on Medium
 List of my stories in [Medium](https://miqbalrp.medium.com/) about Numerical Method and Computational Physics.<br> 
 
 #### 1. Root Finding
